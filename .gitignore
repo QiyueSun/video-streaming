@@ -1,0 +1,7 @@
+*.vscode/*
+*.o
+*.out
+*.DS_Store
+*.dSYM
+miProxy/miProxy
+nameserver/nameserver
